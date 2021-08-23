@@ -1,0 +1,14 @@
+{
+  "guild": {
+    "id": "311176479910133760",
+    "name": "SPARK : EU Tournament",
+    "cmd": "517767640844992541",
+    "log": "517767640844992541",
+    "organizer": [],
+    "participant": { "channel": "", "msg": "" },
+    "leaders": { "channel": "", "msg": "", "role": "515145382645465089" },
+    "groups": "514707519415910400"
+  },
+  "toornament": { "id": "3025697549364355072", "url": "" },
+  "lang": "en"
+}

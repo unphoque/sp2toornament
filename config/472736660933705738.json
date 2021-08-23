@@ -1,0 +1,14 @@
+{
+  "guild": {
+    "id": "472736660933705738",
+    "name": "Bots_Test",
+    "cmd": "",
+    "log": "",
+    "organizer": [],
+    "participant": { "channel": "", "msg": "" },
+    "leaders": { "channel": "", "msg": "", "role": "" },
+    "groups": ""
+  },
+  "toornament": { "id": "1523895530663616512", "url": "" },
+  "lang": "en"
+}

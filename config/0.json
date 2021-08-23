@@ -1,0 +1,24 @@
+{
+  "guild": {
+    "id": "",
+    "name": "",
+    "cmd": "",
+    "log": "",
+    "organizer": [],
+    "participant": {
+      "channel": "",
+      "msg": ""
+    },
+    "leaders": {
+      "channel": "",
+      "msg": "",
+      "role": ""
+    },
+    "groups": ""
+  },
+  "toornament": {
+    "id": "1523895530663616512",
+    "url": ""
+  },
+  "lang": "en"
+}

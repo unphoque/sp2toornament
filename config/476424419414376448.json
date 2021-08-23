@@ -1,0 +1,14 @@
+{
+  "guild": {
+    "id": "476424419414376448",
+    "name": "Splatoon 2 EU Community Cup",
+    "cmd": "534269148222586880",
+    "log": "534269148222586880",
+    "organizer": [],
+    "participant": { "channel": "", "msg": "" },
+    "leaders": { "channel": "", "msg": "", "role": "622746302404362259" },
+    "groups": "533641570315141120"
+  },
+  "toornament": { "id": "2846106565002878976", "url": "" },
+  "lang": "en"
+}
